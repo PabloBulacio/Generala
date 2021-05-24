@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1602887182 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 1er cuatrimestre\laboratorio 1\projects\generala\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<string.h>
+	<sstream>
+	"Funciones.h"
+	"rlutil.h"
+
+1595199211 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 1er cuatrimestre\laboratorio 1\projects\generala\funciones.h
+
+1602887268 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 1er cuatrimestre\laboratorio 1\projects\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<string.h>
+	<sstream>
+	"Funciones.h"
+	"rlutil.h"
+
+1593208575 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 1er cuatrimestre\laboratorio 1\tp integrador\cadenas.cpp
+	<iostream>
+
+1593208484 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 1er cuatrimestre\laboratorio 1\tp integrador\cadenas2.cpp
+	<iostream>
+	<cstring>
+
+1594729914 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 1er cuatrimestre\laboratorio 1\projects\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
